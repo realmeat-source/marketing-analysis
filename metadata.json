@@ -1,0 +1,6 @@
+{
+  "name": "Marketing Analysis Assistant - Ad Analysis",
+  "description": "An interactive dashboard to visualize and analyze advertising campaign performance data. It displays key metrics, charts, insights, and suggestions, and allows users to add their own analysis.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
